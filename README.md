@@ -1,13 +1,13 @@
 # Blender
 🎨 A collection of my Blender projects including modeling, animation, and simulation scenes. Showcasing creativity, lighting, and rendering techniques as I explore 3D design.
 
-# 🍩🌊 Blender Projects by Praveen Jadhav
+# Blender Projects by Praveen Jadhav
 
 Welcome! This repository contains two beginner-to-intermediate level Blender projects I've worked on: the classic Donut Scene and a Cinematic Ocean Scene. Both showcase different aspects of 3D design, modeling, lighting, and animation.
 
 ---
 
-## 📌 Project 1: Donut Scene
+## 📌 Project 1: 🍩 Donut Scene
 
 ### 🔧 Tools Used:
 - Blender (Modeling, Texturing, Lighting)
@@ -19,9 +19,8 @@ This is my first Blender project, inspired by Blender Guru’s famous tutorial. 
 
 ### 📸 Preview: 🍩 Donut Scene
 
-[![Watch Donut Animation](Donut-Scene/Final-Render.png)](Renders/Donut-Scene/0001-0180.mp4)
-
-
+[![Watch Donut Animation](Renders/Donut-Scene/0001.png)](https://drive.google.com/file/d/1qXoDrPRgCuKl3DB9sDAZiN1gbsCFRDna/view?usp=drive_link)  
+**▶️ Click the image to watch the animation**
 ---
 
 ## 🌊 Project 2: Cinematic Ocean Scene
@@ -35,13 +34,15 @@ This is my first Blender project, inspired by Blender Guru’s famous tutorial. 
 ### 📝 Description:
 This scene is a calm cinematic ocean created using the ocean modifier. It simulates realistic wave movement, with subtle fog and lighting to enhance the mood.
 
-### 🎥 Preview:
-[Click to watch the animation](https://your-drive-or-youtube-link.com)
+### 🎥 Preview: 🌊 Ocean Scene 
 
+[![Watch Donut Animation](Renders/Ocean-Scene/0001.png)](https://drive.google.com/file/d/1mOefyuZ0aF2xxWtGpNTMaiunDqMzgOmt/view?usp=drive_link)
+**▶️ Click the image to watch the animation**
 ---
 
 ## 🔗 Links
-- Google Drive Backup: [Drive Link Here]
+- 🔗 [View all project files on Google Drive](https://drive.google.com/drive/folders/1GGG_oHa0zNmiY5Y-_lnSyzW1bmbfgayR?usp=sharing)
+
 - Portfolio Website (Coming soon)
 
 ---
